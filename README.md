@@ -50,7 +50,6 @@ I started off learning from SoloLearn and freeCodeCamp – picked up HTML, CSS, 
 ## 📬 Reach out
 
 - 📧 **Email:** [hiubaidashraf@gmail.com](mailto:hiubaidashraf@gmail.com) 
-- 💼 **LinkedIn:** [linkedin.com/in/muhammad-ubaid-ashraf-5646381b9/](https://linkedin.com/in/muhammad-ubaid-ashraf-5646381b9/)
 
 ---
 
